@@ -1,4 +1,5 @@
 🤖 INTELLILEARN - PDF Summarizer + Quiz Generator + Chatbot
+
 INTELLILEARN is an AI-powered web application built with Streamlit that allows users to:
 ✅ Upload PDFs and extract content
 ✅ Automatically generate summaries
